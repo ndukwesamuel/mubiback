@@ -1,0 +1,10 @@
+add todos
+remove/delete
+update
+get all todos
+get one 
+
+
+title,
+body
+completed
